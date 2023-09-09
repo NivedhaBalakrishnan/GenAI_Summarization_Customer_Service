@@ -3,7 +3,7 @@
 
 #### Tools and Techniques used: Python, PyTorch, Huggingface Transformers, Flan T5 transformer model, Prompt Engineering, LLM Fine Tuning.
 
-<img src="https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/assets/50318272/1c22d506-a268-4a34-8b57-9e25a4a8f383" alt="Image Description" width="300" height="200">
+<img src="https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/assets/50318272/1c22d506-a268-4a34-8b57-9e25a4a8f383" alt="Image Description" width="60" height="80">
 
 ### Model Pipeline
 
