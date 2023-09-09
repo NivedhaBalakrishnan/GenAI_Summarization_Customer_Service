@@ -15,6 +15,6 @@ In today's fast-paced business landscape, effective communication between custom
 - <b>Personalize Experiences</b>: Insights gained from analyzing interactions enable tailored responses and personalized customer experiences. This personal touch boosts engagement and customer satisfaction.
 
 
-### MODEL PIPELINE
+#### MODEL PIPELINE
 
 <img width="938" alt="genAI Workflow" src="https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/assets/50318272/8fdb4ed5-6c71-40df-b408-f7c486eef439">
