@@ -3,7 +3,7 @@
 
 ##### Tools and Techniques used: Python, PyTorch, Huggingface Transformers, Flan T5 transformer model, Prompt Engineering, LLM Fine Tuning.
 
-<img src="https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/assets/50318272/1c22d506-a268-4a34-8b57-9e25a4a8f383" alt="Image Description" width="500" height="250">
+<img src="https://github.com/NivedhaBalakrishnan/GenAI_Summarization_Customer_Service/assets/50318272/1c22d506-a268-4a34-8b57-9e25a4a8f383" alt="Image Description" width="500" height="400">
 
 #### PROJECT DESCRIPTION
 In today's fast-paced business landscape, effective communication between customer service representatives and clients is paramount for building strong relationships and ensuring customer satisfaction. The "Conversational Analysis for Customer Service Enhancement" project aims to harness the power of Natural Language Processing (NLP) to extract valuable insights from customer service interactions. By summarizing conversations and analyzing them, this project seeks to provide actionable intelligence that can elevate customer service strategies, enhance client experiences, and drive overall business success.
